@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7839c101963d15e46952a53711e3327e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {instanceID: 0}
+  - block: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - ballsDestroyer: {instanceID: 0}
+  - gameData: {fileID: 11400000, guid: fa19b9d67d99a4a489fb4f585104d338, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
